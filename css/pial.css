@@ -1,0 +1,74 @@
+*body{
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif;
+}
+
+
+.header{
+    background:#0fffff;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+.header h1{
+    font-size: 50px;
+    color: blue;
+}
+.header p{
+    font-size: 20px;
+    color: black;
+}
+.container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+.box-1{
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    padding: 35px 50px;
+
+}
+.box-2{
+   width: 50%;
+   float: right;
+   box-sizing: border-box;
+   padding: 35px 50px;
+
+}
+.box-3{
+    width: 50%;
+    float: right;
+    box-sizing: border-box;
+    padding: 35px 50px;
+}
+.box-4{
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    padding: 35px 50px;
+}
+.box-5{
+    width: 50%;
+    float: right;
+    box-sizing: border-box;
+    padding: 35px 50px;
+}
+.box-5 input{
+    background: blue;
+    text-align: center;
+    border-radius: 100px;
+}
+.box-5 input {
+    color: white;
+}
+.box-6{
+    width: 50%;
+    float: right;
+    box-sizing: border-box;
+    padding: 35px 50px;
+}
